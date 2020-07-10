@@ -12,3 +12,5 @@ then you can use 'patch' instead of 'node index.js'
 Prequisite:
 
 Add a Keychain entry 'github' with account 'token'
+
+Change localProjDir in code to your mms dir
